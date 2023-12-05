@@ -11,8 +11,8 @@
  
 <h2>🎓 Certifications</h2>
 
-- [Database Programming with SQL]<b><i>(Oracle)</b></i>(https://drive.google.com/file/d/1YpeT9TB03BEvzk9yGrbGVGNmT2Ksmj8x/view?usp=drive_link)
-- [Programming for Everybody(Getting Started with Python)]<b><i>(University of Michigan)</b></i>(https://coursera.org/share/6416e2af39713a5d12e059749d78b703)
+- [Database Programming with SQL](https://drive.google.com/file/d/1YpeT9TB03BEvzk9yGrbGVGNmT2Ksmj8x/view?usp=drive_link)<b><i>(Oracle)</b></i>
+- [Programming for Everybody(Getting Started with Python)](https://coursera.org/share/6416e2af39713a5d12e059749d78b703)<b><i>(University of Michigan)</b></i>
 
 
 <h2> 🤳 Connect with me:</h2>
