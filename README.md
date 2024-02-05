@@ -6,8 +6,9 @@
   - [Handwritten Text Recognition](https://github.com/Sudarchanan/HandWritten-Text-Recognition)
   - [Movie Recommendation System](https://github.com/Sudarchanan/Movie-Recommendation)
 - <b>Data Analysis</b>
-  - [Bank Marketing Analysis]
   - [Project on Data Analytics for DHL Logistics Facilities](https://github.com/Sudarchanan/IBM-Project-2455-1658471854)
+- <b>Cloud</b>
+  - [CloudResumeChallenge](https://github.com/Sudarchanan/CloudResumeChallenge)
  
 <h2>🎓 Certifications</h2>
 
