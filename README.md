@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sudarchanan! <br/><a href="https://github.com/Sudarchanan">Programmer</a>, <a href="https://www.linkedin.com/in/sudarchananms/">Python Developer</a>, <a href="">Cloud Enthusiast</a></h1>
+<h1>Hi, I'm Sudarchanan! </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
