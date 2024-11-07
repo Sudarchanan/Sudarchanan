@@ -8,7 +8,9 @@
 - <b>Data Analysis</b>
   - [Project on Data Analytics for DHL Logistics Facilities](https://github.com/Sudarchanan/IBM-Project-2455-1658471854)
 - <b>Cloud</b>
-  - [CloudResumeChallenge](https://github.com/Sudarchanan/CloudResumeChallenge)
+  - [Cloud Resume Challenge](https://github.com/Sudarchanan/CloudResumeChallenge)
+- <b>Java - ReactJS - MySql</b>
+  - [Catalogue Management System ](https://github.com/Sudarchanan/Catalogue-Management-System)
  
 <h2>🎓 Certifications</h2>
 
@@ -22,17 +24,4 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]:https://www.linkedin.com/in/sudarchananms/
-<!--
-**Sudarchanan/Sudarchanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
